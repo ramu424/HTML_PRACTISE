@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<html>
 <body>
 </body>
 </html>
@@ -18,3 +19,14 @@
 
 </body>
 </html>
+
+<p>Message from my computer:</p>
+<p><samp>File not found.<br>Press F1 to continue</samp></p>
+
+code {
+  background-color: #eeeeee;
+  border-radius: 3px;
+  font-family: "Courier New", monospace;
+  padding: 0 3px;
+}
+i
